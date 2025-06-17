@@ -78,10 +78,9 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldonis12" alt="GitHub Streak" height="200"/>
-  &nbsp;&nbsp;&nbsp;
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldonis12" alt="GitHub Streak" height="200"/>
+  &nbsp;&nbsp;&nbsp; -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aldonis12&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="200"/>
 </p>
 
